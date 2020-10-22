@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logic.BaseMeasure" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAABAAAAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BaseMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.BaseUnit" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAABAAAAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BaseUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.DerivedMeasure" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DerivedMeasure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.DerivedUnit" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAQgAAAAAAAABAAAAABAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>DerivedUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.Measure" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Measure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.Metric" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAIAAAACAAAAAAAAAQAAAAEBAAAAAAAAAAACAA=</HashCode>
+      <FileName>Metric.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.Quantity" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIAAAAAAQAgAAAAIYADAACACAQAgCAAAAAAAAAAAAA=</HashCode>
+      <FileName>Quantity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic.Unit" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAAAAAQAAAAAAAAAAAAAAAAAgAAAAIAIAAAAA=</HashCode>
+      <FileName>Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
