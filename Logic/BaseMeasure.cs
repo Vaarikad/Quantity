@@ -8,7 +8,11 @@ namespace Logic
     {
         public BaseMeasure(string name, string symbol = null) : base(name, symbol) { }
 
-        public BaseMeasure() : this(string.Empty) { }       
-      
+        public BaseMeasure() : this(string.Empty) { }
+
+        public static int Multiply(int a, int b)
+        {
+            return a * b;
+        }
     }
 }
